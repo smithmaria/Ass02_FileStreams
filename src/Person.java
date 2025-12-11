@@ -1,5 +1,5 @@
-import java.util.Objects;
 import java.util.Calendar;
+import java.util.Objects;
 
 /**
  * Person class represents a person with basic information including name, ID, title, and year of birth.
